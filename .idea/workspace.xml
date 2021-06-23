@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ee2dff6-505e-4258-b19d-48c8c9fa47a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ClassTranning/ClassTranning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTranning/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTranning/src/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTranning/src/HardWorkPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTranning/src/MyMath/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClassTranning/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/DemoCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DemoCode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/Lesson14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Exercise1/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Exercise1/bmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Exercise2/CompareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Exercise2/CustomException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Exercise3/CustomException3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Exercise3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson14/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/Lesson15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson15/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson16/Lesson16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson16/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson16/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maven/mavenTranning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/QuizzTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/src/main/java/month/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/src/main/java/month/MonthProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/src/main/java/password/PasswordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/src/main/java/string/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/src/test/java/string/StringExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/target/classes/month/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/target/classes/month/MonthProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/target/classes/password/PasswordExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuizzTest/target/classes/string/StringExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VinUni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AccountantStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FullTimeLecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GraduatedStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HouseKeepingStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InLearningStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InternLecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrepareLearningStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RecruiterStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SecurityStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VisitingLecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven2/mavenExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven2/src/main/java/Lesson13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven2/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven2/src/test/java/Lessson13Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson8/Lesson8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson8/Lesson8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Maven/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lession8/Lesson8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Lession8/Lesson8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Lession8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Lession8/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uLz14zFFubSgk6cpX3ivEkXAAv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="VinUni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee2dff6-505e-4258-b19d-48c8c9fa47a3" name="Default Changelist" comment="" />
+      <created>1624459439001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624459439001</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1624467328886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1624467328886" />
+    <state x="466" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624462542546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="229" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1624462542546" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624462508867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1624462508867" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1624470951758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624470951758" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1624470951758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624470951758" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1624470951758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624470951758" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1624470951758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624470951758" />
+    <state x="65" y="25" key="new project wizard" timestamp="1624461898651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1624461898651" />
+  </component>
+</project>
